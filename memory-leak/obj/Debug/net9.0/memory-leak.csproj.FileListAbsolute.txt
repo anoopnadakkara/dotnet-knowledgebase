@@ -1,0 +1,15 @@
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/bin/Debug/net9.0/memory-leak
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/bin/Debug/net9.0/memory-leak.deps.json
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/bin/Debug/net9.0/memory-leak.runtimeconfig.json
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/bin/Debug/net9.0/memory-leak.dll
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/bin/Debug/net9.0/memory-leak.pdb
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/obj/Debug/net9.0/memory-leak.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/obj/Debug/net9.0/memory-leak.AssemblyInfoInputs.cache
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/obj/Debug/net9.0/memory-leak.AssemblyInfo.cs
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/obj/Debug/net9.0/memory-leak.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/obj/Debug/net9.0/memory-leak.sourcelink.json
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/obj/Debug/net9.0/memory-leak.dll
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/obj/Debug/net9.0/refint/memory-leak.dll
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/obj/Debug/net9.0/memory-leak.pdb
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/obj/Debug/net9.0/memory-leak.genruntimeconfig.cache
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-leak/obj/Debug/net9.0/ref/memory-leak.dll

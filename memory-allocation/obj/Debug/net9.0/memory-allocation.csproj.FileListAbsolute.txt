@@ -1,0 +1,15 @@
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/bin/Debug/net9.0/memory-allocation
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/bin/Debug/net9.0/memory-allocation.deps.json
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/bin/Debug/net9.0/memory-allocation.runtimeconfig.json
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/bin/Debug/net9.0/memory-allocation.dll
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/bin/Debug/net9.0/memory-allocation.pdb
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/obj/Debug/net9.0/memory-allocation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/obj/Debug/net9.0/memory-allocation.AssemblyInfoInputs.cache
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/obj/Debug/net9.0/memory-allocation.AssemblyInfo.cs
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/obj/Debug/net9.0/memory-allocation.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/obj/Debug/net9.0/memory-allocation.sourcelink.json
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/obj/Debug/net9.0/memory-allocation.dll
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/obj/Debug/net9.0/refint/memory-allocation.dll
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/obj/Debug/net9.0/memory-allocation.pdb
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/obj/Debug/net9.0/memory-allocation.genruntimeconfig.cache
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/memory-allocation/obj/Debug/net9.0/ref/memory-allocation.dll
