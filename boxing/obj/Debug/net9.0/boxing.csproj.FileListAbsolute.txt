@@ -1,0 +1,15 @@
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/bin/Debug/net9.0/boxing
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/bin/Debug/net9.0/boxing.deps.json
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/bin/Debug/net9.0/boxing.runtimeconfig.json
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/bin/Debug/net9.0/boxing.dll
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/bin/Debug/net9.0/boxing.pdb
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/obj/Debug/net9.0/boxing.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/obj/Debug/net9.0/boxing.AssemblyInfoInputs.cache
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/obj/Debug/net9.0/boxing.AssemblyInfo.cs
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/obj/Debug/net9.0/boxing.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/obj/Debug/net9.0/boxing.sourcelink.json
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/obj/Debug/net9.0/boxing.dll
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/obj/Debug/net9.0/refint/boxing.dll
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/obj/Debug/net9.0/boxing.pdb
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/obj/Debug/net9.0/boxing.genruntimeconfig.cache
+/workspaces/dotnet-dev-container/dotnet-kb/dotnet-knowledgebase/boxing/obj/Debug/net9.0/ref/boxing.dll
