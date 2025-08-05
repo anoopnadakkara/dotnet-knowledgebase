@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boxing", "boxing\boxing.csproj", "{89534EF9-4E44-4104-94FF-7E6A0902C6A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memory-allocation", "memory-allocation\memory-allocation.csproj", "{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{89534EF9-4E44-4104-94FF-7E6A0902C6A6}.Release|x64.Build.0 = Release|Any CPU
 		{89534EF9-4E44-4104-94FF-7E6A0902C6A6}.Release|x86.ActiveCfg = Release|Any CPU
 		{89534EF9-4E44-4104-94FF-7E6A0902C6A6}.Release|x86.Build.0 = Release|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Debug|x64.Build.0 = Debug|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Debug|x86.Build.0 = Debug|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Release|x64.ActiveCfg = Release|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Release|x64.Build.0 = Release|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Release|x86.ActiveCfg = Release|Any CPU
+		{B44C9F3A-2DDC-4E45-932F-EFD22CCA7A56}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
